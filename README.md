@@ -11,7 +11,7 @@
 - Copy their opgg's directly into your clipboard
 - Horrible UI makes you feel very retro (will be updated inshallah 🕌)
 _______________
-[![Alt text](https://i.imgur.com/3CcGAAO.png)
+![Alt ](https://i.imgur.com/3CcGAAO.png)
 
 ## Can man get banned?
 Yeah you can, if you go around copy pasting their account names every lobby; which don't get me wrong, is a lot of fun (until riot police catch on). But seriously you can't get banned, all the calls are made locally on your machine, so it's all safe; just don't make it obvious you know who everyone is :)
