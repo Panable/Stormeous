@@ -19,4 +19,4 @@ Yeah you can, if you go around copy pasting their account names every lobby; whi
 
 
 ## Tech
-Stormeous is written in Python and all the code is open source. All the api calls being made to league of legends are actually all locally made; so nothing goes out to the internet when you use the application. Best part? No viruses like some other champ select helpers out there. Don't trust me? Read the code yourself; it's less than 300 lines. Build from source if you don't trust the builds.
+Stormeous is written in Python and all the code is open source. Works for Linux and Windows. All the api calls being made to league of legends are actually all locally made; so nothing goes out to the internet when you use the application. Best part? No viruses like some other champ select helpers out there. Don't trust me? Read the code yourself; it's less than 300 lines. Build from source if you don't trust the builds.
